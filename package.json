@@ -1,0 +1,23 @@
+{
+    "name": "petadoption",
+    "version": "1.0.0",
+    "description": "React Refresher Application",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write \" src/**/*.{js,jsx,css,json}\"",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kfang1220/PetAdoption.git"
+    },
+    "author": "Kevin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kfang1220/PetAdoption/issues"
+    },
+    "homepage": "https://github.com/kfang1220/PetAdoption#readme",
+    "devDependencies": {
+        "prettier": "^1.16.4"
+    }
+}
